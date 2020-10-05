@@ -1,0 +1,5 @@
+CONFIG.py
+BOT_USERS.db
+logs
+.idea
+__pycache__
